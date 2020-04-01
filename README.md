@@ -10,6 +10,14 @@
 
 ## References
 
+### Percentage Data in Pcnt_under_20 for Census 2006
+- 27.39% : Parkville
+- 15.55% : North Melbourne
+- 13.95% : Melbourne
+### Percentage Data in Pcnt_under_20 for Census 2011
+- 23.95%: Parkville
+- 15.76% : North Melbourne
+- 11%:Melbourne
 ### Percentage Data in Pcnt_under_20 for Census 2016
 - 22.04% : Parkville
 - 15.76% : North Melbourne
